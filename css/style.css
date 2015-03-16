@@ -35,10 +35,6 @@ label.valid {
 	opacity: .9;
 }
 
-.item{
-	height: 1000px;
-}
-
 .header {
 	background-color:#366D6D;
 	color:#FFFFFF;
@@ -53,6 +49,8 @@ label.valid {
 	padding:30px;
 	text-align:center;
 	text-shadow:none;
+	position: relative;
+	bottom: 800px;
 }
 
 .heading {
@@ -216,6 +214,8 @@ label.valid {
 	.container {
 		padding-left: 20px;
 		padding-right: 20px;
+		position: relative;
+		bottom: 650px;
 	}
 
 	#subscribe {
